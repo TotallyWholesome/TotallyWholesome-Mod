@@ -18,17 +18,17 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">TotallyWholesome Wiki</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="/AV3RemoteControl.md" class="btn">AV3 Remote Control</a>
-      <a href="/AvatarIntegrations.md" class="btn">Avatar Integrations</a>
-      <a href="/Consent.md" class="btn">Consent</a>
-      <a href="/ToyIntegrations.md" class="btn">Toy Integrations</a>
+      <a href="./docs/AV3RemoteControl.md" class="btn">AV3 Remote Control</a>
+      <a href="./docs/AvatarIntegrations.md" class="btn">Avatar Integrations</a>
+      <a href="./docs/Consent.md" class="btn">Consent</a>
+      <a href="./docs/ToyIntegrations.md" class="btn">Toy Integrations</a>
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
 
       <footer class="site-footer">
-        <span><a href="/third-party-licenses.md">3rd Party Licenses</a> | <a href="/eula.md">End User License Agreement</a></span>
+        <span><a href="./docs/third-party-licenses.md">3rd Party Licenses</a> | <a href="./docs/eula.md">End User License Agreement</a></span>
         <br>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">TotallyWholesome Wiki</a> is maintained by the <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> team.</span>
