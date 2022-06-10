@@ -1,7 +1,7 @@
 # TotallyWholesome-Mod
 This is a closed source mod. We use this repo for issue tracking and wiki purposes
 
-To get this mod join our [Discord](https://discord.gg/GbyjZYVEEx). Also feel free to check out the [Totally Wholesome Website](https://totallywholeso.me)
+To get this mod join our [Discord](https://discord.gg/GbyjZYVEEx). Also feel free to check out the [Totally Wholesome Website](https://totallywholeso.me) and/or [Wiki Page](https://wiki.totallywholeso.me/)
 
 # Features
 ## Core Features
