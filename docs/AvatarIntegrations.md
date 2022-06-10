@@ -1,55 +1,27 @@
-# End User License Agreement
+---
+layout: default
+title: Avatar Integrations
+description: TotallyWholesome's direct Integrations with your VRChat avatar
+---
 
-**To use this modification you MUST be 18 years or older**
-Please read this End User License Agreement carefully before clicking the Agree button, or using Totally Wholesome. By clicking the Agree button or using Totally Wholesome, you are agreeing to be bound by the terms and conditions of this Agreement.
+# Leash Anchors
+You can optionally override the placement of the leash on both the pet and master side, this allows you to specially set up the leash position where you'd like it, like let's say on a collar or otherwise. These anchors automatically override the bone selection.
 
-## License:
-If you do not agree to the terms of this Agreement, do not click Agree and discontinue use of Totally Wholesome.
+This does require a touch more setup on the avatar, but it's pretty straightforward.
 
-The Totally Wholesome Team grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use Totally Wholesome solely for your personal, non-commercial purposes strictly in accordance with this Agreement.
+## Setting up the anchors
+1. Create a GameObject on your avatars root named either TWLPetAnchor or TWLMasterAnchor, you can also add both if you'd like to override both. These should be in the same spot as your avatars' meshes.
+2. Add a Parent Constraint component to the newly created GameObjects.
+3. Position the GameObjects which you would like the leash to be attached to.
+4. Add a new Constraint Source and select the closest bone to your anchor GameObject
+5. Press the Activate button on the Parent Constraint component
+6. You should now be ready to use your new anchor points!
 
-## Restrictions:
-You agree not to, and you will not permit others to:
-
-a) Sell or redistribute Totally Wholesome as part of a pack, for monetary gain, or otherwise commercially exploit Totally Wholesome.
-
-b) Modify or otherwise override Totally Wholesome, or its limitations, internally or externally.
-
-c) Utilize Totally Wholesome for malicious purposes, to include hacking, stealing, exploiting, or otherwise causing harm to other user(s).
-
-d) Abuse the Totally Wholesome Network, either through Totally Wholesome or through external programs.
-
-e) Claim Totally Wholesome or the network as your own.
-
-## Data Usage in Totally Wholesome
-By connecting to the Totally Wholesome Network some data is shared with us, this data can include.
-
-* VRChat Username
-* VRChat UserID
-* IP Address
-* World ID Hash
-* Optional full World ID (For instance following feature)
-Some of this information is retained by the network for error logging and identifying potential problems, you can submit a data deletion request through our Discord by creating a ticket.
-
-For users that have been banned from the Totally Wholesome Network you can still request data deletion, but some minor data will be retained for ban tracking.
-
-## Modifications to Totally Wholesome:
-The Totally Wholesome Team reserves the right to modify, suspend or discontinue, temporarily or permanently, Totally Wholesome or the Totally Wholesome Network, with or without notice and without liability to you.
-
-## Term and Termination:
-This agreement shall remain in effect until terminated by you or The Totally Wholesome Team.
-
-The Totally Wholesome Team may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
-
-This Agreement will terminate immediately, without prior notice from The Totally Wholesome Team, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting Totally Wholesome and all copies thereof from your computer.
-
-Upon termination of this Agreement, you shall cease all use of Totally Wholesome and delete all copies of Totally Wholesome from your computer.
-
-## Severability:
-If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
-
-## Amendments:
-The Totally Wholesome Team reserves the right to, at its sole discretion, modify or replace this Agreement at any time. If a revision is material, we will provide at least 7 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
-
-## Contact Information:
-If you have any questions about this Agreement, please contact us by creating a ticket on our Discord.
+# AV3 Parameter Integrations
+Getting started with the AV3 parameter integrations is pretty easy, just add the parameters you wish to use to your avatar's parameter file and then TW will drive them when appropriate
+### TWGag
+TWGag is enabled when your master enables the pet gag toggle
+### TWCollar
+TWCollar is enabled when you are a pet
+### TWMaster
+TWMaster is enabled when you are a master

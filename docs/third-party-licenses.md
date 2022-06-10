@@ -1,6 +1,10 @@
-# 3rd Party Licenses
+---
+layout: default
+title: 3rd Party Licenses
+description: 
+---
 
-## buttplug-rs-ffi, buttplug-csharp, buttplug-js are BSD licensed.
+# buttplug-rs-ffi, buttplug-csharp, buttplug-js are BSD licensed.
 
 https://github.com/Er1807/ManagedButtplugIo
 
@@ -34,7 +38,7 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
-## websocket-sharp is MIT licensed.
+# websocket-sharp is MIT licensed.
 
 https://github.com/sta/websocket-sharp
 
@@ -62,7 +66,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-## Yggdrasil is MIT licensed
+# Yggdrasil is MIT licensed
 
 https://github.com/exectails/Yggdrasil/
 ```
@@ -92,7 +96,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-## MessagePack for C# is MIT licensed
+# MessagePack for C# is MIT licensed
 
 https://github.com/neuecc/MessagePack-CSharp/
 ```
