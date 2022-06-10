@@ -1,1 +1,1 @@
-### Welcome to the **TotallyWholesome Wiki** page! Select a link above to get started.
+**Welcome to the **TotallyWholesome Wiki** page! Select a link above to get started.**
