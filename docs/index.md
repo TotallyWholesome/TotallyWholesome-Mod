@@ -1,1 +1,1 @@
-**Welcome to the __TotallyWholesome Wiki__ page! Select a link above to get started.**
+<b>Welcome to the <u>TotallyWholesome Wiki</u> page! Select a link above to get started.</b>
