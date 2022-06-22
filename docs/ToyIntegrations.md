@@ -39,7 +39,7 @@ _More information on this can be found here for [lovense toys](https://how.do.i.
 
 First things first, figure out how you would like to connect your toy to VRC. At the moment there are **2** general ways of connecting your toy to VRC.
 1. Toy -> Computer
-1. 1. Toy -> Phone -> Computer
+1. Toy -> Phone -> Computer
 
 ## Toy -> Computer
 There are a couple more options when connecting the toy directly to the computer.
