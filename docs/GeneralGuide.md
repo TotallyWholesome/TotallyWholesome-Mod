@@ -333,6 +333,8 @@ IF YOU ARE WEARING A SDK2.0 AVI
 IF YOU ARE WEARING A SDK3.0 AVI
 <br>
 <img src="https://user-images.githubusercontent.com/105324215/177842491-3c52b60c-8426-4b69-8ae2-9ab3a16c3630.png" alt="AV3RemoteConfigSDK3">
+<br>
+For More Info On AV3 Remote Control For More Info On AV3 Remote Control <a href="https://wiki.totallywholeso.me/AV3RemoteControl">Click Here</a>
   
 <h3>Parameters</h3>
 Enabling any of the parameters you see will allow the master to control them.
