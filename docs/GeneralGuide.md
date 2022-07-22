@@ -258,7 +258,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="Menu_Visibility">Menu Visibility Settings</a></h1>
+<h1><a id="Menu_Visibility_Settings">Menu Visibility Settings</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177835744-75f34335-3026-4cdb-81ba-47e25045358b.png" alt="MenuVisibilitySettings">
 
 <details>
