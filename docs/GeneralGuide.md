@@ -6,7 +6,7 @@ description: A General Guide To TotallyWholesome
 
 ##### Current version 3.2.27
 > This is designed to be as relevent to its current version as possible.
-<h2><a id="The_Installation">The Installation</a></h2>
+<h2><a id="The_Installation">The Installation</a></h2><a href="https://wiki.totallywholeso.me/GeneralGuide#The_Installation">Link</a>
 
 <details>
   <summary>Click To Expand.</summary>
@@ -23,7 +23,7 @@ description: A General Guide To TotallyWholesome
 
 </details>
   
-<h1><a id="Main_Menu">Main Menu</a></h1>
+<h1><a id="Main_Menu">Main Menu</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Main_Menu">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177820267-421a981c-03aa-459d-a985-b0cfd57148eb.png" alt="MainMenu">
 
 <details>
@@ -63,7 +63,7 @@ description: A General Guide To TotallyWholesome
     
 </details>
 
-<h1><a id="PiShock_Main_Menu">PiShock Main Menu</a></h1>
+<h1><a id="PiShock_Main_Menu">PiShock Main Menu</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#PiShock_Main_Menu">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177823798-8b85b6a2-1407-441e-98bc-0163b1e096d1.png" alt="ShockMainMenu">
 
 <details>
@@ -103,7 +103,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="T.W._Settings">T.W. Settings</a></h1>
+<h1><a id="T.W._Settings">T.W. Settings</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#T.W._Settings">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177828906-60118019-088f-4aa9-8e75-0160bf5fa050.png" alt="SettingsMainMenu">
 
 <details>
@@ -152,7 +152,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="Pet_Settings">Pet Settings</a></h1>
+<h1><a id="Pet_Settings">Pet Settings</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Pet_Settings">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177836256-ad83ea35-703a-4894-9d13-e9a6bb36290c.png" alt="SettingsPetMenu">
 
 <details>
@@ -183,7 +183,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
  
-<h1><a id="Master_Settings">Master Settings</a></h1>
+<h1><a id="Master_Settings">Master Settings</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Master_Settings">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177837382-2766f8f9-5112-43bd-869d-23c9cecb895b.png" alt="SettingsMasterMenu">
 
 <details>
@@ -202,7 +202,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="Pi_Shock_Settings">Pi Shock Settings</a></h1>
+<h1><a id="Pi_Shock_Settings">Pi Shock Settings</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Pi_Shock_Settings">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/178126768-0d5a2a45-9e54-4fbe-8455-6a7e53d9e659.png" alt="SettingsShockMenu">
 
 <details>
@@ -236,7 +236,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="T.W._Net_Settings">T.W. Net Settings</a></h1>
+<h1><a id="T.W._Net_Settings">T.W. Net Settings</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#T.W._Net_Settings">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177839071-7483b490-c745-4a86-ba53-c06c2290720c.png" alt="SettingsTWMenu">
 
 <details>
@@ -258,7 +258,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="Menu_Visibility_Settings">Menu Visibility Settings</a></h1>
+<h1><a id="Menu_Visibility_Settings">Menu Visibility Settings</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Menu_Visibility_Settings">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177835744-75f34335-3026-4cdb-81ba-47e25045358b.png" alt="MenuVisibilitySettings">
 
 <details>
@@ -272,17 +272,17 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="Pet_Lead_Attach_Point">Pet Lead Attach Point</a></h1>
+<h1><a id="Pet_Lead_Attach_Point">Pet Lead Attach Point</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Pet_Lead_Attach_Point">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177840141-7dcb1692-881f-4dd0-ac16-f8a01921f73a.png" alt="SettingsPetAttachMenu">
 
 Selecting any of these will change that to be where the leash attaches to you when you are the pet.
 
-<h1><a id="Master_Lead_Attach_Point">Master Lead Attach Point</a></h1>
+<h1><a id="Master_Lead_Attach_Point">Master Lead Attach Point</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Master_Lead_Attach_Point">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177840506-a5be1db3-a2d1-443a-be0b-736550c55783.png" alt="SettingsMasterAttachMenu">
 
 Selecting any of these will change that to be where the leash attaches to you when you are the master.
 
-<h1><a id="Leash_Colour">Leash Colour</a></h1>
+<h1><a id="Leash_Colour">Leash Colour</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Leash_Colour">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177840830-33e813c3-2f0c-4f04-a381-00786ac63fc6.png" alt="SettingsColourMenu">
 
 <details>
@@ -296,7 +296,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
 
 </details>  
 
-<h1><a id="Status_and_ETC">Status and ETC</a></h1>
+<h1><a id="Status_and_ETC">Status and ETC</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Status_and_ETC">Link</a>
 <img src="https://user-images.githubusercontent.com/105324215/177841367-892938d2-9de6-4129-bbcd-bbfcca2024d8.png" alt="StatusMenu">
 
 <details>
@@ -321,7 +321,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
 
 </details>  
  
-<h1><a id="AV3_Remote_Config">AV3 Remote Config</a></h1>
+<h1><a id="AV3_Remote_Config">AV3 Remote Config</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#AV3_Remote_Config">Link</a>
 
 <details>
   <summary>Click To Expand.</summary>
@@ -341,5 +341,5 @@ Enabling any of the parameters you see will allow the master to control them.
   
 </details>
 
-<h1><a id="Individual_Pet_Control">Individual Pet Control</a></h1>
+<h1><a id="Individual_Pet_Control">Individual Pet Control</a></h1><a href="https://wiki.totallywholeso.me/GeneralGuide#Individual_Pet_Control">Link</a>
 COMING SOON
