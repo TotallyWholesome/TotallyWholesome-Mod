@@ -30,12 +30,13 @@ e) Claim Totally Wholesome or the network as your own.
 ## Data Usage in Totally Wholesome
 By connecting to the Totally Wholesome Network some data is shared with us, this data can include.
 
-* VRChat Username
-* VRChat UserID
+* ChilloutVR Username
+* ChilloutVR UserID
 * IP Address
-* World ID Hash
-* Optional full World ID (For instance following feature)
-  Some of this information is retained by the network for error logging and identifying potential problems, you can submit a data deletion request through our Discord by creating a ticket.
+* Instance ID Hash
+* Optional Plaintext Instance ID (For instance following feature)
+
+Some of this information is retained by the network for error logging and identifying potential problems, you can submit a data deletion request through our Discord by creating a ticket.
 
 For users that have been banned from the Totally Wholesome Network you can still request data deletion, but some minor data will be retained for ban tracking.
 
@@ -56,6 +57,9 @@ If any provision of this Agreement is held to be unenforceable or invalid, such 
 
 ## Amendments:
 The Totally Wholesome Team reserves the right to, at its sole discretion, modify or replace this Agreement at any time. If a revision is material, we will provide at least 7 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+## Disclaimers:
+This modification is unofficial and not supported or affiliated with Alpha Blend Interactive. Using this modification might cause issues with performance, security, or stability of the game.
 
 ## Contact Information:
 If you have any questions about this Agreement, please contact us by creating a ticket on our Discord.
