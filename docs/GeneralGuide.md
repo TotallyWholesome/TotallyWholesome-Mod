@@ -4,7 +4,7 @@ title: TW Guide
 description: A General Guide To TotallyWholesome
 ---
 
-##### Current version 3.1.1
+##### Current version 3.2.59
 > This is designed to be as relevent to its current version as possible.
 
 <h2><a id="The_Installation">The Installation</a></h2>
@@ -203,7 +203,7 @@ description: A General Guide To TotallyWholesome
   Settings for enabling Pi Shock features.
   
   <h3>Shocker Management</h3>
-  <i>Covered in Setup Video.</i> <img src="http://aurares.potato.moe/shockermanagement.mp4" alt="Click-Me-For-Setup-Video">
+  <i>Covered in Setup Video.</i> <img src="https://totallywholeso.me/assets/vid/PiShockSetupTW.mp4" alt="Click-Me-For-Setup-Video">
 
   <h3>Allow Shock Control</h3>
   Enable to allow for Pi Shock integration with T.W.
