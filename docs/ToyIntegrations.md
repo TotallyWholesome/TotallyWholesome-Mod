@@ -17,7 +17,7 @@ If you are already using VibeGoBrrr you can ignore everything afterward. If VGB 
 
 ## Setup Intiface (Buttplug.io)
 Luckily for you, you don't need to set up Intiface. If you still want feel free to [download](https://intiface.com/desktop/) and install it.
-If you want to use your own installation make sure to start the Intiface server first before you start VRC.
+If you want to use your own installation make sure to start the Intiface server first before you start CVR.
 
 _More information on this can be found here for [lovense toys](https://how.do.i.get.buttplug.in/hardware/lovense.html) as there are some specifics you need to be aware of_
 
@@ -33,7 +33,7 @@ _More information on this can be found here for [lovense toys](https://how.do.i.
 
 > This guide assumes you have turned on toy control in the TW settings.
 
-> If your VRC is crashing or your toy physically isn't working. You should probably get that fixed first.
+> If your CVR is crashing or your toy physically isn't working. You should probably get that fixed first.
 
 > ~~*This guide assumes too much*~~
 
@@ -57,7 +57,7 @@ Ensure that the bluetooth dongle is plugged into the computer.
 Ensure toy is set to pairing mode.
 > This guide assumes you do not have the app open on your phone due to the fact that the toy may connect to the phone before it connects to the computer.
 
-Boot up VRC with the TW mod. *Profit*
+Boot up CVR with the TW mod. *Profit*
 
 
 ### Lovense Dongles

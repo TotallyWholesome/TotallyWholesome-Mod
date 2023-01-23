@@ -30,7 +30,7 @@ description: A General Guide To TotallyWholesome
 <details>
   <summary>Click To Expand.</summary>
 
-  Once you have loaded into VRC and go to your QuickMenu you are going to see a new tab in the top right. Clicking this tab will bring you to this first menu, the main menu. <i>After you accept the eula.</i>
+  Once you have loaded into CVR and go to your QuickMenu you are going to see a new tab in the top right. Clicking this tab will bring you to this first menu, the main menu. <i>After you accept the eula.</i>
 
   <h3>Remove Leash</h3>
   Remove Leash does as it says. If you have <i>ANY</i> leashes attached clicking this button will remove <i>ALL</i> of the leashes.
