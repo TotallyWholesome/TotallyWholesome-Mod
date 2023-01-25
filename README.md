@@ -23,7 +23,7 @@ To get this mod join our [Discord](https://discord.gg/GbyjZYVEEx). Also feel fre
     * If you have either the Pet or Master auto accept request enabled you get a light blue circle on your status
 
 * Optional advanced avatar integrations
-    * AV3 Parameters (TWGag, TWCollar and TWMaster)
+    * Avatar Parameters (TWGag, TWCollar and TWMaster)
     * Leash position target overrides
  
  

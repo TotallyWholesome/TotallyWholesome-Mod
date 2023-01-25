@@ -50,7 +50,7 @@ description: A General Guide To TotallyWholesome
   <h3>Temp Unlock Leashes</h3>
   This toggle will temporarily unlock <i>ALL</i> leashes attached to pets. <i>THIS WILL NOT UNLOCK YOU!</i>
 
-  <h3>AV3 Remote Config</h3>
+  <h3>Avatar Remote Config</h3>
   A collection of your current avatars parameters that you can set to allow the Master to control. <a href="#Avatar_Remote_Config">ReadMore</a>
 
   <h3>Individual Pet Controls</h3>

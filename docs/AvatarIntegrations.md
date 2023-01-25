@@ -19,8 +19,8 @@ This does require a touch more setup on the avatar, but it's pretty straightforw
 5. Press the Activate button on the Parent Constraint component
 6. You should now be ready to use your new anchor points!
 
-## AV3 Parameter Integrations
-Getting started with the AV3 parameter integrations is pretty easy, just add the parameters you wish to use to your avatar's parameter file and then TW will drive them when appropriate
+## Avatar Parameter Integrations
+Getting started with the Avatar parameter integrations is pretty easy, just add the parameters you wish to use to your avatar's parameter file and then TW will drive them when appropriate
 ### TWGag
 TWGag is enabled when your master enables the pet gag toggle
 ### TWCollar
