@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Consent
-description: TotallyWholesome's direct Integrations with your VRChat avatar
+description: TotallyWholesome's user consent and usage information
 ---
 
 # Consent

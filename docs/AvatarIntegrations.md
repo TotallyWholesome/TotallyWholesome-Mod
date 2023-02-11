@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avatar Integrations
-description: TotallyWholesome's direct Integrations with your VRChat avatar
+description: TotallyWholesome's direct Integrations with your ChilloutVR avatar
 ---
 
 # Avatar Integrations
