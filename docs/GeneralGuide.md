@@ -4,7 +4,7 @@ title: TW Guide
 description: A General Guide To TotallyWholesome
 ---
 
-##### Current version 3.2.59
+##### Current version 3.3.17
 > This is designed to be as relevent to its current version as possible.
 
 <h2><a id="The_Installation">The Installation</a></h2>
