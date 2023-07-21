@@ -356,7 +356,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
   
 </details>  
 
-<h1><a id="#More_Pet_Restrictions">More Pet Restrictions</a></h1>
+<h1><a id="More_Pet_Restrictions">More Pet Restrictions</a></h1>
 <img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/272a0c33-3dc2-448d-a236-f0028d17e202" alt="StatusMenu">
 
 <details>
