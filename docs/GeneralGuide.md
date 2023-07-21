@@ -4,8 +4,8 @@ title: TW Guide
 description: A General Guide To TotallyWholesome
 ---
 
-##### Current version 3.3.17
-> This is designed to be as relevent to its current version as possible.
+##### Current version 3.4.16
+> This is designed to be as relevant to its current version as possible.
 
 <h2><a id="The_Installation">The Installation</a></h2>
 
@@ -14,7 +14,7 @@ description: A General Guide To TotallyWholesome
 
   <h4>1. Run Melonloader Installer</h4>
   <h4>2. Go find mods folder (Probably at C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\)</h4>
-  <h4>3. Drag and drop mod into mods folder</h4>
+  <h4>3. Drag and drop the mod into the mods folder</h4>
   <h4>4. Run CVR</h4>
 
   <p>
@@ -25,36 +25,36 @@ description: A General Guide To TotallyWholesome
 </details>
   
 <h1><a id="Main_Menu">Main Menu</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191076301-bfbb546d-f190-4d9e-b890-5d3ebda9b1ca.png" alt="MainMenu">
+<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/aeba77eb-160a-4e71-b0d6-d2376c8fb9ea" alt="MainMenu">
 
 <details>
   <summary>Click To Expand.</summary>
 
-  Once you have loaded into CVR and go to your QuickMenu you are going to see a new tab in the top right. Clicking this tab will bring you to this first menu, the main menu. <i>After you accept the eula.</i>
+  Once you have loaded into CVR and go to your QuickMenu, you should see a new tab in the top right. Clicking this tab will bring you to this first menu, the main menu. <i>After you accept the EULA.</i>
 
   <h3>Remove Leash</h3>
   Remove Leash does as it says. If you have <i>ANY</i> leashes attached clicking this button will remove <i>ALL</i> of the leashes.
 
   <h3>Clear Notifications</h3>
-  Clear Notifications clears all current notifications, even those that are <i>currently</i> pending. This is more used if you need to clear a build up of T.W. requests.
+  Clear Notifications clears all current notifications, even those that are <i>currently</i> pending. This is more used if you need to remove a build-up of T.W. requests.
 
   <h3>TW Settings</h3>
   A collection of settings for T.W. <a href="#T.W._Settings">ReadMore</a>
 
-  <h3>Status and ETC</h3>
-  A collection of settings refering to your T.W. status and other information. <a href="#Status_and_ETC">ReadMore</a>
+  <h3>My TW</h3>
+  A collection of settings referring to your T.W. status and other information. <a href="#My_TW">ReadMore</a>
 
   <h3>Gag Pets</h3>
-  This toggle will attempt to gag <i>ALL</i> pets leashed. <i>This will fail if pet does not have force mute allowed.</i>
+  This toggle will attempt to gag <i>ALL</i> pets leashed. <i>This will fail if the pet does not have force mute allowed.</i>
 
-  <h3>Temp Unlock Leashes</h3>
-  This toggle will temporarily unlock <i>ALL</i> leashes attached to pets. <i>THIS WILL NOT UNLOCK YOU!</i>
+  <h3>More Pet Restrictions</h3>
+  A collection of restriction options that affect all connected pets, as long as the said pet has said restriction enabled. <a href="#More_Pet_Restrictions">ReadMore</a>
 
   <h3>Avatar Remote Config</h3>
-  A collection of your current avatars parameters that you can set to allow the Master to control. <a href="#Avatar_Remote_Config">ReadMore</a>
+  A collection of your current avatar parameters that you can set to allow the Master to control. <a href="#Avatar_Remote_Config">ReadMore</a>
 
   <h3>Individual Pet Controls</h3>
-  A collection of your current pets allowing for individual control of each pet. <a href="#Individual_Pet_Control">ReadMore</a>
+  A collection of your current pets allows for individual control of each pet. <a href="#Individual_Pet_Control">ReadMore</a>
 
   <h3>Leash Length</h3>
   Sets the length for <i>ALL</i> pet leashes. <i>THIS WILL NOT CHANGE YOUR LEASH!</i>
@@ -94,10 +94,10 @@ description: A General Guide To TotallyWholesome
   Sets the height at which if the pet goes over it will trigger height control.
 
   <h3>Shock Height Max Strength</h3>
-  The max strength shock that the pet will recieve when going over the height control limit.
+  The max strength shock that the pet will receive when going over the height control limit.
 
   <h3>Shock Height Min Strength</h3>
-  The min strength shock that the pet will recieve when going over the height control limit.
+  The min strength shock that the pet will receive when going over the height control limit.
 
   <h3>Shock Height Step Strength</h3>
   How fast the shocks go from Min Strength to Max Strength.
@@ -105,7 +105,7 @@ description: A General Guide To TotallyWholesome
 </details>  
 
 <h1><a id="T.W._Settings">T.W. Settings</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191077397-ea3c9585-47a7-4053-b57f-a34686eff4ab.png" alt="SettingsMainMenu">
+<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/228378e4-c149-485d-89b8-309864c9bc6a" alt="SettingsMainMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -113,13 +113,13 @@ description: A General Guide To TotallyWholesome
   The first grouping under T.W. Settings
 
   <h3>TW Branches</h3>
-  Contains option to pick which release you will use. <i>Beta Requires Beta Key</i> (Changes on next start up)
+  Contains the option to pick which release you will use. <i>Beta Requires Beta Key</i> (Changes on next start-up)
   
   <h3>Restart Buttplug</h3>
   Attempts to restart Buttplug.io
   
   <h3>Test Toys</h3>
-  Vibrates your connected Lovense toys and beeps your connected pishock toys.
+  Vibrates your connected Lovense toys and beeps your connected Pishock toys.
     
   <h3>Reload Config</h3>
   Reloads the T.W. Settings config.
@@ -128,24 +128,31 @@ description: A General Guide To TotallyWholesome
   A collection of menus that you can show or hide from the main menu. <a href="#Menu_Settings">ReadMore</a>
   
   <h3>Hide The Leash</h3>
-  Toggles if any leash attached to you is hidden to everyone <i>INCLUDING YOU</i> or not.
+  Toggles if any leash attached to you is hidden from everyone <i>INCLUDING YOU</i> or not.
 
   <h3>Private Leash</h3>
-  Toggles if any leash attached to you is hidden to everyone <i>EXCLUDING PET AND MASTER</i> or not.
+  Toggles if any leash attached to you is hidden from everyone <i>EXCLUDING PET AND MASTER</i> or not.
 
   <h3>Auto Accept Requests From Friends Only</h3>
   Checks to see if you have "Auto Accept Pet Requests" or "Auto Accept Master Requests" enabled then checks if the person requesting is your friend. If they are the request will be accepted.
   
-  <h3>Use CVR HUD Messages</h3>
-  Toggles if T.W. will use the CVR HUD messages for notifications.
+  <h3>Disable TW Notification System</h3>
+  Toggles if T.W. will use the TW system for notifications.
 
   <h3>Pet/Master Join Notifications</h3>
-  Toggles if you will recieve notifications when your Pet or Master joins.
+  Toggles if you will receive notifications when your Pet or Master joins.
+
+  <h3>Use ActionMenu Controls</h3>
+  Toggles if you will be able to control TW through the action menu. <i>Requires ActionMenu Mod</i>
+
+  <h3>Hide TW Nameplate Badges</h3>
+  Toggles if you will see badges on nameplates.
 
 </details>  
 
 <h1><a id="Pet_Settings">Pet Settings</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191077642-4ac7b62c-6ac7-4d2a-9fec-55a6c239dd16.png" alt="SettingsPetMenu">
+<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/f2edd74b-2d19-4fc7-81cb-75c9cf15bbf0" alt="SettingsPetMenu">
+<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/f2320fb2-3f7e-4c6f-bd5a-eb01e5f126ca" alt="SettingsPetMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -173,6 +180,24 @@ description: A General Guide To TotallyWholesome
   <h3>Follow Master On World Change</h3>
   If Master has "Allow Pet To Follow You" enabled when your master moves to a new world you will be pulled with them.
 
+  <h3>Allow World/Prop Pinning</h3>
+  Allows for your leash to be set to a prop by your master.
+
+  <h3>Allow Movement Controls</h3>
+  Sets if your master will be able to disallow you from flying or sitting.
+
+  <h3>Allow Blindfolding</h3>
+  Allows for Master to blind you.
+
+  <h3>Allow Deafening</h3>
+  Allows for Master to deafen you.
+
+  <h3>Blindness Radius</h3>
+  Sets how far you will be able to see while blind. Higher number = See more
+
+  <h3>Deafen Attenuation</h3>
+  Sets how much noise will be filtered out. 
+
 </details>  
  
 <h1><a id="Master_Settings">Master Settings</a></h1>
@@ -187,7 +212,7 @@ description: A General Guide To TotallyWholesome
   Sets where the lead will attach to your body when you are a master. <a href="#Master_Lead_Attach_Point">ReadMore</a>
   
   <h3>Allow Pet To Follow You</h3>
-  Sends world change to pet to allow them to follow.
+  Sends world change to pets to allow them to follow.
 
   <h3>Auto Accept Master Requests</h3>
   Does as it says. Auto Accepts Master Requests from *anyone* that is not blocked through T.W.
@@ -221,15 +246,15 @@ description: A General Guide To TotallyWholesome
   Allow Master to toggle height control.
 
   <h3>Height Control Warning</h3>
-  Recieve a warning when you are about to trigger the height control shock.
+  Receive a warning when you are about to trigger the height control shock.
   
   <h3>Random Shocker Mode</h3>
-  Sends shocks to random shocker device.
+  Sends shocks to a random shocker device.
 
 </details>  
 
 <h1><a id="T.W._Net_Settings">T.W. Net Settings</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191078249-811e11e8-6eb7-42b0-8d92-5dab8225f138.png" alt="SettingsTWMenu">
+<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/4188f782-e3a6-4985-bc83-9d099e9152ab" alt="SettingsTWMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -237,16 +262,22 @@ description: A General Guide To TotallyWholesome
   Settings for connecting with T.W.
 
   <h3>Disconnect From TWNet</h3>
-  Should not need to be used. Disconnects you from TW
+  Should not need to be used. Disconnects you from TW Network.
 
   <h3>Reconnect to TWNet</h3>
-  Should not need to be used. TW will auto reconnect unless disconnected using "Disconnect From TWNet".
+  Should not need to be used. TW will auto-reconnect unless disconnected using "Disconnect From TWNet".
+
+  <h3>Leash Style</h3>
+  Allows for setting the style of the leash. Local Only.
 
   <h3>Leash Color Config</h3>
-  Menu for changing your leash colour. <a href="#Leash_Colour">ReadMore</a>
+  Menu for changing your leash color. <a href="#Leash_Colour">ReadMore</a>
   
   <h3>Custom Leash Colour</h3>
   Enable for custom color
+
+  <h3>Hide Custom Leash Style</h3>
+  Allows for Custom Leash Style to be hidden. Custom is a user-setup leash style, not a default leash style.
 
 </details>  
 
@@ -291,8 +322,8 @@ Selecting any of these will change that to be where the leash attaches to you wh
 
 </details>  
 
-<h1><a id="Status_and_ETC">Status and ETC</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191078835-4e3aa8b2-575d-4133-baf6-c918fee3ea6f.png" alt="StatusMenu">
+<h1><a id="My_TW">My_TW</a></h1>
+<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/6bb32196-d626-4308-b9be-dc2c80bccf75" alt="StatusMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -308,14 +339,60 @@ Selecting any of these will change that to be where the leash attaches to you wh
   <h3>Hide Status In Public</h3>
   Hides T.W. Status in public worlds.
 
+  <h3>Show Device Status</h3>
+  Enables an icon to be shown if others have devices connected.
+
+  <h3>Show Auto Accept</h3>
+  Enables an icon to be shown if others have Auto Accept enabled.
+
   <h3>Enter Rank Key</h3>
-  You get one of these if you in the Beta.
+  You get one of these if you are in the Beta.
+
+  <h3>My Achievements</h3>
+  An April fools prank that stuck. A menu to see all of the achievements you have got through TW.
 
   <h3>Other stuff</h3>
   Buttons for Discord, PiShock Homepage, Licences, and Eula.
   
 </details>  
- 
+
+<h1><a id="#More_Pet_Restrictions">More Pet Restrictions</a></h1>
+<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/272a0c33-3dc2-448d-a236-f0028d17e202" alt="StatusMenu">
+
+<details>
+  <summary>Click To Expand.</summary>
+
+  Menu for pet restrictions. Changing these options affects all connected pets.
+
+  <h3>Temp Leash Unlock</h3>
+  Temporarily unlocks all leashes.
+
+  <h3>Disallow Flight</h3>
+  Attempts to disallow flight for all pets.
+
+  <h3>Disallow Seats</h3>
+  Attempts to disallow seats for all pets.
+
+  <h3>Blindfold</h3>
+  Attempts to blindfold all pets.
+
+  <h3>Deafen</h3>
+  Attempts to deafen all pets.
+
+  <h3>Set World Pin</h3>
+  Will make a target that appears to come from your hand. Once triggered a world pin will be set that can be used to leash all pets too.
+
+  <h3>Lock Leash to World Pin</h3>
+  Uses world pin set by "Set World Pin" to attempt to leash all pets to world pin.
+
+  <h3>Select Bound Prop</h3>
+  Opens up a menu that shows current props available to set as leash points.
+
+  <h3>Lock Leash to Prop</h3>
+  Toggles on and off attempting to set all pets' leash points to whichever prop is set in "Select Bound Prop".
+  
+</details>
+
 <h1><a id="Avatar_Remote_Config">Avatar Remote Config</a></h1>
 
 <details>
