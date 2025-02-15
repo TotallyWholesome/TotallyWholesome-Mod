@@ -21,9 +21,13 @@ This does require a touch more setup on the avatar, but it's pretty straightforw
 
 ## Avatar Parameter Integrations
 Getting started with the Avatar parameter integrations is pretty easy, just add the parameters you wish to use to your avatar's parameter file and then TW will drive them when appropriate
+### TWBlindfold
+TWBlindfold is enabled when your master enables the pet blindfold toggle
 ### TWGag
 TWGag is enabled when your master enables the pet gag toggle
 ### TWCollar
 TWCollar is enabled when you are a pet
 ### TWMaster
 TWMaster is enabled when you are a master
+### TWLCustomLeadMat
+TWLCustomLeadMat is enabled when you have a [custom materal](https://cdn.discordapp.com/attachments/953481253234028584/1318812738188869702/TWCustomLeashMatConfig.unitypackage?ex=67b0cf53&is=67af7dd3&hm=0af33acbfed589618b8e12efd5b768083203e667384cf1cdc346887731a6c639&) built into your avatar

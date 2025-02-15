@@ -13,17 +13,19 @@ To get this mod join our [Discord](https://discord.gg/GbyjZYVEEx). Also feel fre
 
 * Master remote control features
     * Remote pet gagging
+    * Remote pet blinding
     * Leash distance control
     * Optional master instance change follow system (Both users must opt in)
     * Toy control
-
+    * Shocker Control
+  
 * Optional global status system to let other TW users know you're using TW
     * Optional visible Beta/Alpha tag if you have one
     * By default the status is hidden in public instances
     * If you have either the Pet or Master auto accept request enabled you get a light blue circle on your status
 
 * Optional advanced avatar integrations
-    * Avatar Parameters (TWGag, TWCollar and TWMaster)
+    * Avatar Parameters (TWBlindfold, TWGag, TWCollar, TWMaster, TWLCustomLeadMat)
     * Leash position target overrides
  
  
