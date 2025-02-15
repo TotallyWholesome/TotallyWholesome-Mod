@@ -17,5 +17,5 @@ The usage for masters is very simple, once your pet has enabled some parameters 
 ## Caveats
 There are currently a couple of limitations to be aware of with the Avatar Remote Control system.
 
-* You can only enable 12 parameters to be controlled right now, this may change down the road
+* You can only enable 36 parameters to be controlled right now, this may change down the road
 * Floats are handled a bit weird, the slider values are only sent when you close the Avatar Param Control menu, they also go from -1 to 1, so if the avatar expects 0 to 1 it may not work as expected when below 0
