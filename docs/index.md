@@ -22,7 +22,7 @@
             <li>Remote Blinding, Gagging/Muffling, and Deafing</li>
             <li>Bypass Deafing</li>
             <li>Leash Distance Control</li>
-            <li><a href="./ToyIntegrations.md">Toy</a> and <a href="./ShockerIntegrations.md">Shock</a> Control</li>
+            <li><a href="./ToyIntegrations">Toy</a> and <a href="./ShockerIntegrations">Shock</a> Control</li>
         </ul>
     </li>
 </ul>
@@ -45,7 +45,7 @@
 <ul>
     <li>Optional Avatar Integration
         <ul>
-            <li><a href="./AvatarIntegrations.md#avatar-parameter-integrations">Avatar Parameters</a> (TWGag, TWBlindfold, TWCollar, TWMaster, and more!)</li>
+            <li><a href="./AvatarIntegrations#avatar-parameter-integrations">Avatar Parameters</a> (TWGag, TWBlindfold, TWCollar, TWMaster, and more!)</li>
             <li>Customizable Leash Postion</li>
         </ul>
     </li>
