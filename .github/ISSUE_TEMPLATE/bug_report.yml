@@ -42,7 +42,7 @@ body:
     attributes:
       label: Screenshots/Logs
       description: If applicable, add screenshots/logs to help explain your problem.
-      placeholder: Do not paste content of log or console, instead upload `VRChat\MelonLoader\Latest.log`
+      placeholder: Do not paste content of log or console, instead upload `ChillourVR\MelonLoader\Latest.log`
     validations:
       required: false
   - type: textarea

@@ -25,7 +25,7 @@ description: A General Guide To TotallyWholesome
 </details>
   
 <h1><a id="Main_Menu">Main Menu</a></h1>
-<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/aeba77eb-160a-4e71-b0d6-d2376c8fb9ea" alt="MainMenu">
+<img src="./assets/images/image.png" alt="MainMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -64,48 +64,50 @@ description: A General Guide To TotallyWholesome
     
 </details>
 
-<h1><a id="PiShock_Main_Menu">PiShock Main Menu</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191076782-3fd1c962-eafe-4843-b431-c14f2bdc3e8e.png" alt="ShockMainMenu">
+<h1><a id="Shock_Main_Menu">Shock Main Menu</a></h1>
+<img src="./assets/images/image1.png" alt="ShockMainMenu">
+<img src="./assets/images/image18.png" alt="ShockMainMenu">
 
 <details>
   <summary>Click To Expand.</summary>
 
-  Under the Main Menu we have the PiShock Main Menu.
+Under the Main Menu we have the Shock Main Menu.
 
-  <h3>Beep</h3>
-  It beeps <i>ALL</i> connected pet PiShock devices. <i>BEEP</i>
+<h3>Beep</h3>
+It beeps <i>ALL</i> connected pet Shock devices. <i>BEEP</i>
 
-  <h3>Vibrate</h3>
-  It vibrates <i>ALL</i> connected pet PiShock devices. <i>BRR</i>
+<h3>Vibrate</h3>
+It vibrates <i>ALL</i> connected pet Shock devices. <i>BRR</i>
 
-  <h3>Shock</h3>
-  It shocks <i>ALL</i> connected pet PiShock devices. <i>BZZT</i>
+<h3>Shock</h3>
+It shocks <i>ALL</i> connected pet Shock devices. <i>BZZT</i>
 
-  <h3>Height Control</h3>
-  Toggles on and off height control for <i>ALL</i> connected pet PiShock devices. 
+<h3>Height Control</h3>
+Toggles on and off height control for <i>ALL</i> connected pet Shock devices.
 
-  <h3>Strength</h3>
-  The strength of the Beep, Vibrate, and Shock for <i>ALL</i> connected pet PiShock devices.
+<h3>Strength</h3>
+The strength of the Beep, Vibrate, and Shock for <i>ALL</i> connected pet Shock devices.
 
-  <h3>Duration</h3>
-  The duration of the Beep, Vibrate, and Shock for <i>ALL</i> connected pet PiShock devices.
+<h3>Duration</h3>
+The duration of the Beep, Vibrate, and Shock for <i>ALL</i> connected pet Shock devices.
 
-  <h3>Shock Height</h3>
-  Sets the height at which if the pet goes over it will trigger height control.
+<h3>Shock Height</h3>
+Sets the height at which if the pet goes over it will trigger height control.
 
-  <h3>Shock Height Max Strength</h3>
-  The max strength shock that the pet will receive when going over the height control limit.
+<h3>Shock Height Max Strength</h3>
+The max strength shock that the pet will receive when going over the height control limit.
 
-  <h3>Shock Height Min Strength</h3>
-  The min strength shock that the pet will receive when going over the height control limit.
+<h3>Shock Height Min Strength</h3>
+The min strength shock that the pet will receive when going over the height control limit.
 
-  <h3>Shock Height Step Strength</h3>
-  How fast the shocks go from Min Strength to Max Strength.
+<h3>Shock Height Step Strength</h3>
+How fast the shocks go from Min Strength to Max Strength.
 
 </details>  
 
+
 <h1><a id="T.W._Settings">T.W. Settings</a></h1>
-<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/228378e4-c149-485d-89b8-309864c9bc6a" alt="SettingsMainMenu">
+<img src="./assets/images/image3.png" alt="SettingsMainMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -119,7 +121,7 @@ description: A General Guide To TotallyWholesome
   Attempts to restart Buttplug.io
   
   <h3>Test Toys</h3>
-  Vibrates your connected Lovense toys and beeps your connected Pishock toys.
+  Vibrates your connected Lovense toys and beeps your connected shock toys.
     
   <h3>Reload Config</h3>
   Reloads the T.W. Settings config.
@@ -151,8 +153,8 @@ description: A General Guide To TotallyWholesome
 </details>  
 
 <h1><a id="Pet_Settings">Pet Settings</a></h1>
-<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/f2edd74b-2d19-4fc7-81cb-75c9cf15bbf0" alt="SettingsPetMenu">
-<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/f2320fb2-3f7e-4c6f-bd5a-eb01e5f126ca" alt="SettingsPetMenu">
+<img src="./assets/images/image1.5.png" alt="SettingsPetMenu">
+<img src="./assets/images/image12.png" alt="SettingsPetMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -201,7 +203,7 @@ description: A General Guide To TotallyWholesome
 </details>  
  
 <h1><a id="Master_Settings">Master Settings</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191077785-fd1f700a-bb19-4157-9172-24f0937025d5.png" alt="SettingsMasterMenu">
+<img src="./assets/images/image4.png" alt="SettingsMasterMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -219,42 +221,9 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="Pi_Shock_Settings">Pi Shock Settings</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191077941-f98c1fa7-0701-449c-a710-4ffd8e589ee8.png" alt="SettingsShockMenu">
-
-<details>
-  <summary>Click To Expand.</summary>
-
-  Settings for enabling Pi Shock features.
-  
-  <h3>Shocker Management</h3>
-  <i>Covered in Setup Video.</i> <img src="https://totallywholeso.me/assets/vid/PiShockSetupTW.mp4" alt="Click-Me-For-Setup-Video">
-
-  <h3>Allow Shock Control</h3>
-  Enable to allow for Pi Shock integration with T.W.
-
-  <h3>Allow Beep</h3>
-  Allow Master to Beep PiShock Devices.
-
-  <h3>Allow Vibrate</h3>
-  Allow Master to Vibrate PiShock Devices.
-
-  <h3>Allow Shock</h3>
-  Allow Master to Shock PiShock Devices.
-
-  <h3>Allow Height Control</h3>
-  Allow Master to toggle height control.
-
-  <h3>Height Control Warning</h3>
-  Receive a warning when you are about to trigger the height control shock.
-  
-  <h3>Random Shocker Mode</h3>
-  Sends shocks to a random shocker device.
-
-</details>  
 
 <h1><a id="T.W._Net_Settings">T.W. Net Settings</a></h1>
-<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/4188f782-e3a6-4985-bc83-9d099e9152ab" alt="SettingsTWMenu">
+<img src="./assets/images/image13.png" alt="SettingsTWMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -282,7 +251,7 @@ description: A General Guide To TotallyWholesome
 </details>  
 
 <h1><a id="Menu_Settings">Menu Settings</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191078429-7af49ce2-f1c3-4213-9a56-268789b4c812.png" alt="MenuSettings">
+<img src="./assets/images/image14.png" alt="MenuSettings">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -293,8 +262,8 @@ description: A General Guide To TotallyWholesome
   <h3>Logo Position X</h3>
   Sets the T.W. logo, <i>the one used to open the menu</i> left and right position. 
   
-  <h3>Hide Pi Shock Elements</h3>
-  Enabling hides the Pi Shock Elements from the Main Menu.
+  <h3>Hide Shock Elements</h3>
+  Enabling hides the Shock Elements from the Main Menu.
 
   <h3>Hide Toy Strength</h3>
   Enabling hides the toy strength slider from the Main Menu.
@@ -302,17 +271,17 @@ description: A General Guide To TotallyWholesome
 </details>  
 
 <h1><a id="Pet_Lead_Attach_Point">Pet Lead Attach Point</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191078706-761d6008-363d-40c5-a8b6-544105c61682.png" alt="SettingsPetAttachMenu">
+<img src="./assets/images/image11.png" alt="SettingsPetAttachMenu">
 
 Selecting any of these will change that to be where the leash attaches to you when you are the pet.
 
 <h1><a id="Master_Lead_Attach_Point">Master Lead Attach Point</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191078745-368d4567-ce60-4bc2-b2e1-6c8aa52a4742.png" alt="SettingsMasterAttachMenu">
+<img src="./assets/images/image10.png" alt="SettingsMasterAttachMenu">
 
 Selecting any of these will change that to be where the leash attaches to you when you are the master.
 
 <h1><a id="Leash_Colour">Leash Color Config</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191078796-ebfe2415-c727-4fe3-b9c5-144d7169ff78.png" alt="SettingsColorMenu">
+<img src="./assets/images/image15.png" alt="SettingsColorMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -323,7 +292,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
 </details>  
 
 <h1><a id="My_TW">My_TW</a></h1>
-<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/6bb32196-d626-4308-b9be-dc2c80bccf75" alt="StatusMenu">
+<img src="./assets/images/image2.png" alt="StatusMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -352,12 +321,12 @@ Selecting any of these will change that to be where the leash attaches to you wh
   An April fools prank that stuck. A menu to see all of the achievements you have got through TW.
 
   <h3>Other stuff</h3>
-  Buttons for Discord, PiShock Homepage, Licences, and Eula.
+  Buttons for Discord, Licences, and Eula.
   
 </details>  
 
 <h1><a id="More_Pet_Restrictions">More Pet Restrictions</a></h1>
-<img src="https://github.com/TotallyWholesome/TotallyWholesome-Wiki/assets/105324215/272a0c33-3dc2-448d-a236-f0028d17e202" alt="StatusMenu">
+<img src="./assets/images/image16.png" alt="StatusMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -394,12 +363,12 @@ Selecting any of these will change that to be where the leash attaches to you wh
 </details>
 
 <h1><a id="Avatar_Remote_Config">Avatar Remote Config</a></h1>
+<img src="./assets/images/image17.png" alt="AvatarRemoteConfig">
 
 <details>
   <summary>Click To Expand.</summary>
 <br>
-<img src="https://user-images.githubusercontent.com/105324215/191087313-2e6a512c-a481-4fca-824f-21614a7e2126.png" alt="AvatarRemoteConfig">
-  
+
 <h3>Parameters</h3>
 Enabling any of the parameters you see will allow the master to control them.
   
