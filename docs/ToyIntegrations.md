@@ -37,7 +37,7 @@ _More information on this can be found here for [lovense toys](https://how.do.i.
 
 > ~~*This guide assumes too much*~~
 
-First things first, figure out how you would like to connect your toy to VRC. At the moment there are **2** general ways of connecting your toy to VRC.
+First things first, figure out how you would like to connect your toy to CVR. At the moment there are **2** general ways of connecting your toy to CVR.
 1. Toy -> Computer
 1. Toy -> Phone -> Computer
 
@@ -75,7 +75,7 @@ Ensure that the Dongle is plugged into the computer.
 Ensure toy is set to pairing mode.
 > This guide assumes you do not have the app open on your phone due to the fact that the toy may connect to the phone before it connects to the computer.
 
-Boot up VRC with the TW mod. *Profit*
+Boot up CVR with the TW mod. *Profit*
 
 ## Toy -> Phone -> Computer
 This one is one can be a simpler way of connecting your toy to your computer. But if its not working often requires knowledge of networking. If it works it works, if not better try something else
@@ -89,7 +89,7 @@ Go through the steps of connecting your toy to the Lovense Connect App.
 Once the toy is connected to the app, ensure that the computer and the phone with the app running are on the same network.
 > **THIS MEANS NO VPNS** It has to be on *the same network*. 
 
-Boot up VRC with the TW mod. *Profit*
+Boot up CVR with the TW mod. *Profit*
 
 # Something not working?
 If something isn't working you can troubleshoot the problem yourself before seeking help.
